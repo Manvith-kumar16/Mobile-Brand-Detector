@@ -1,5 +1,7 @@
 # Mobile Brand Detector
 
+![Mobile Brand Detector Demo](Images/image.png)
+
 ## Project Description
 
 The **Mobile Brand Detector** is a complete, end-to-end project that uses deep learning to identify the brand and model of a mobile phone from an image. It solves the problem of visual product recognition by providing a full-stack solution, from the machine learning model to a user-friendly web interface.
@@ -114,3 +116,4 @@ Mobile-Brand-Detector/
 ## License
 
 This project is licensed under the MIT License.
+
