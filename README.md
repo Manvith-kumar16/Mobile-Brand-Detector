@@ -16,7 +16,7 @@ The project is structured into a web service with a clear separation between the
 
 ## Setup and Installation
 
-### Prerequisites
+### Prerequisites :
 
 * Python 3.x
 * pip (Python package installer)
@@ -116,4 +116,5 @@ Mobile-Brand-Detector/
 ## License
 
 This project is licensed under the MIT License.
+
 
